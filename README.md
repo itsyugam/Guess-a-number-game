@@ -1,3 +1,5 @@
+**Some information about program:-**
+
 Game to guess a number between 1 to 100.
 
 
